@@ -8,9 +8,9 @@ Tarefas:
 2. Implemente o padrão DAO para as classes AutorDAO e LivroDAO, utilizando a API JDBC para realizar as operações de CRUD no banco de dados.
 3. Crie uma classe ConexaoBD que utiliza o padrão Singleton para gerenciar a conexão com o banco de dados.
 4. Implemente métodos nas classes DAO para:
-  - Inserir, atualizar, excluir e listar autores.
-  - Inserir, atualizar, excluir e listar livros.
-  - Listar todos os livros de um autor específico.
+    - _Inserir, atualizar, excluir e listar autores.
+    - _Inserir, atualizar, excluir e listar livros.
+    - _Listar todos os livros de um autor específico.
 
 Relacionamento:
 - Um autor pode ter vários livros (1):
